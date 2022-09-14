@@ -7,3 +7,46 @@ body {
 #banner {
      width:100%
 }
+.principal{
+   background: #CCCCCC
+    padding: 30px;
+}
+
+.titulo-principal{
+    text-aling: center;
+ 
+}
+em strong { 
+ color: black;
+}
+
+.itens {
+ font-style: italic
+  
+}
+.beneficios {
+ background: #FFFFFF;
+  padding: 20px;
+}
+
+.titulo-centralizado  {
+ text-aling: top;
+}
+
+ul {
+ display:inline-block;
+  vertical-aling: top;
+  width: 20%;
+  margin-right: 15%
+}
+
+.imagembeneficios {
+   width: 50%
+}
+    
+    
+    
+    
+    
+    
+}
